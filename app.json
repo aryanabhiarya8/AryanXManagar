@@ -1,5 +1,5 @@
 {
-      "name": "Fallen Robot",
+      "name": "XD Robot",
       "description": "Telegram Group Management Bot.",
       "logo": "https://te.legra.ph/file/72e135da30a1a349f2844.jpg",
       "keywords": [
@@ -9,7 +9,7 @@
          "manager",
          "Fallen"
       ],   
-   "repository": "https://github.com/AnonymousX1025/FallenRobot",
+   "repository": "https://github.com/rocks143014/Managementbot/",
    "stack": "heroku-22",
    "addons": [
       {
