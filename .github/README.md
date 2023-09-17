@@ -1,7 +1,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 ✘‌ძ ʀᴏʙᴏᴛ 」──
+    ──「 AryanXManager 」──
 </h2>
 
 <p align="center">
